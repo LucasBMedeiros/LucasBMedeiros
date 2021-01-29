@@ -1,17 +1,6 @@
 ### Hi there 👋
 
-<!--
-**LucasEzBM/LucasEzBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Data Science Portfolio
-
-The purpose of this portfolio is to demonstrate business problems solved with the tools I´ve been learning since the past year.
-
-<p align='center'>
-    <img src='banner.png'<
-</p>
-
-# Lucas Ezequiel
+# Lucas Ezequiel Batista de Medeiros
 <sub>*Data Scientist*</sub>
 
 I´m a civil engineer switching to Data Science and I´ve been studying Machine Learning since 2019. I am focused in achieving mastery in the development of solutions to business problems, using Data Science tools and going from the stage of understanding the business context to deploying Machine Learning models and creating new business insights.
@@ -21,7 +10,7 @@ During this time, I have developed solutions for business problems such as ident
 The details of each solution are described in the projects below.
 
 
-**Analytical Tools:**
+### **Analytical Tools:**
 
 **Data Collect and Storage:** web scraping, SQL, MySQL.
 
@@ -53,7 +42,9 @@ In saturated markets, the cost to retain a customer is much less than prospectin
 
 ## Data Anaysis - Insight Projets
 
-### [Web Scraping for EDA from rent prices at OLX](https://github.com/LucasEzBM/hello-world)
+### [Web Scraping for EDA from rent prices at OLX](https://github.com/LucasEzBM/scraper_rent_prices)
 
 Often, when looking to rent a place, advertising websites can be quite dispendious to scroll around. Looking to have a view of the big picture of prices for houses and apartments in a city, I developed this scraper that goes through OLX´s data, cleans it up and provides a basic EDA of house prices.
 
+<!--
+**LucasEzBM/LucasEzBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
