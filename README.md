@@ -24,6 +24,8 @@ The details of each solution are described in the projects below.
 
 **Machine Learning Deployment:** Flask, Heroku.  
 
+**Links:**
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-medeiros-14a8a51a8/)
 
 ## Data Science Projects:
 
