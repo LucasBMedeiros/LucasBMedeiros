@@ -41,7 +41,9 @@ In this multilabel imbalanced classification problem, Airbnb needs to predict th
 
 ### [Churn Prediciton](https://github.com/LucasEzBM/churn_prediction) 
 
-In saturated markets, the cost to retain a customer is much less than prospecting for new customers. Machine Learning models are able to predict whether or not the customer will renew their service contract with the company in the next year. This information about the users is very important to optimize efforts in prioritizing customers who should continue with the contract in the company. In this context, I developed a Machine Learning algorithm to identify whether or not a customer will stop using the banking service. 
+In saturated markets, the cost to retain a customer is much less than prospecting for new customers. Machine Learning models are able to predict whether or not the customer will renew their service contract with the company in the next year. This information about the users is very important to optimize efforts in prioritizing customers who should continue with the contract in the company.
+In this context, I developed a Machine Learning algorithm to identify whether or not a customer will stop using the banking service. The performance of the model in identifying the customer who will enter in churn period is 90%, which represents an additional U$ 20 million in revenue.
+
 
 ## Data Anaysis - Insight Projets
 
