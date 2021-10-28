@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Lucas Ezequiel 
-<sub>*Data Scientist*</sub>
+<sub>*Junior Data Scientist*</sub>
 
 I´m a civil engineer switching to Data Science and I´ve been studying Machine Learning since 2019. I am focused in achieving mastery in the development of solutions to business problems, using Data Science tools and going from the stage of understanding the business context to deploying Machine Learning models and creating new business insights.
 
