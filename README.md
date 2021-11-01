@@ -16,7 +16,7 @@ The details of each solution are described in the projects below.
 
 **Data Processing and Analysis:** Python, Spark.
 
-**Development:** Git. 
+**Development:** Linux, Git. 
 
 **Data Vizualization:** Power BI.
 
