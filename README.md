@@ -30,14 +30,32 @@ The details of each solution are described in the projects below.
 
 ## Data Science Projects:
 
+# [Insiders Clustering](https://github.com/LucasBMedeiros/insiders_clustering)
+
+## Business Problem
+
+A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The customers who make a purchase consume directly for themselves. There are small businesses that buy in bulk and sell to other customers through the retail outlet channel. The company needs to find significant customers for the business who make high purchases of their favourite products, with the intent of rolling out a loyalty program to the high-value customers after identification of segments. Use the clustering methodology to segment customers into groups.
+
+![](img/insiders/clusters.png)
+:--:
+<b>Nine Hierarchical Clusters over UMAP Space for Customer Segmentation</b>
+
 ### [Sales Prediction](https://github.com/LucasEzBM/rossmann-sales)
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
+
+![](img/rossmann/performance.png)
+:--:
+<b>Sales Prediction over time with XGBoost</b>
 
 
 ### [User´s First Booking](https://github.com/LucasEzBM/airbnb_users_first_booking) 
 
 In this multilabel imbalanced classification problem, Airbnb needs to predict the which country a new user's first booking destination will be. There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. At each crisp cycle the model gets less biased towards the 'USA' outcome, and increases its balanced accuracy.
+
+![](img/airbnb/random_bal.png)
+:--:
+<b>Confusion Matrix performance of Random Forest on Balanced Dataset</b>
 
 ### [Churn Prediciton](https://github.com/LucasEzBM/churn_prediction) 
 
