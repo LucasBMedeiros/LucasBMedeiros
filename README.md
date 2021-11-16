@@ -30,9 +30,8 @@ The details of each solution are described in the projects below.
 
 ## Data Science Projects:
 
-# [Insiders Clustering](https://github.com/LucasBMedeiros/insiders_clustering)
+### [Insiders Clustering](https://github.com/LucasBMedeiros/insiders_clustering)
 
-## Business Problem
 
 A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The customers who make a purchase consume directly for themselves. There are small businesses that buy in bulk and sell to other customers through the retail outlet channel. The company needs to find significant customers for the business who make high purchases of their favourite products, with the intent of rolling out a loyalty program to the high-value customers after identification of segments. Use the clustering methodology to segment customers into groups.
 
