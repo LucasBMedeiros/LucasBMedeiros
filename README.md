@@ -47,7 +47,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 
 ![](img/rossmann/performance.png)
 :--:
-<b>Sales Prediction over time with XGBoost</b>
+<b>Sales Prediction over time with XGBoostRegressor</b>
 
 
 ## [User´s First Booking](https://github.com/LucasBMedeiros/airbnb_first_booking) 
