@@ -52,7 +52,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 
 ### [User´s First Booking](https://github.com/LucasBMedeiros/airbnb_first_booking) 
 
-In this multilabel imbalanced classification problem, Airbnb needs to predict the which country a new user's first booking destination will be. There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. At each crisp cycle the model gets less biased towards the 'USA' outcome, and increases its balanced accuracy.
+In this multilabel imbalanced classification problem, Airbnb needs to predict which country a new user's first booking destination will be. There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. By applying feature engineering, data preparation (rescaling and balancing) and feature selection, Random Forest Classifier is able to perform a Cohen Kappa´s score of 90.7% on the balanced dataset and 70.3% on the imbalanced dataset.
 
 ![](img/airbnb/random_bal.png)
 :--:
