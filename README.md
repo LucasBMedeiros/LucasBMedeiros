@@ -39,7 +39,7 @@ By performing feature engineering, data preparation, and dimensionality reductio
 
 ![](img/insiders/clusters.png)
 :--:
-<b>Nine Hierarchical Clusters over UMAP Space for Customer Segmentation</b>
+<b>Eight Hierarchical Clusters over UMAP Space for Customer Segmentation</b>
 
 ## [Sales Prediction](https://github.com/LucasBMedeiros/rossmann_sales)
 
