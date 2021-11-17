@@ -35,6 +35,8 @@ The details of each solution are described in the projects below.
 
 A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The customers who make a purchase consume directly for themselves. There are small businesses that buy in bulk and sell to other customers through the retail outlet channel. The company needs to find significant customers for the business who make high purchases of their favourite products, with the intent of rolling out a loyalty program to the high-value customers after identification of segments. Use the clustering methodology to segment customers into groups.
 
+By performing feature engineering and dimensionality reduction, it is possible to evaluate a natural tendency of customers to cluster together. After that I used Random Forest Regressor embedding as a way to represent a new feature space, before doing UMAP and t-SNE reduction on the data. The combination of a forest embedding and UMAP gave me the best results in clustering customers, giving a silhouette score of 0,67 for 9 cluster with the Hierarquical Clustering algorithm.
+
 ![](img/insiders/clusters.png)
 :--:
 <b>Nine Hierarchical Clusters over UMAP Space for Customer Segmentation</b>
@@ -64,7 +66,7 @@ In this context, I developed a Machine Learning algorithm to identify whether or
 
 ## Data Anaysis - Insight Projets
 
-### [Web Scraping for EDA from rent prices at OLX](https://github.com/LucasEzBM/scraper_rent_prices)
+### [Web Scraping for EDA from rent prices at OLX](https://github.com/LucasBMedeiros/scraper_rent_prices)
 
 Often, when looking to rent a place, advertising websites can be quite dispendious to scroll around. Looking to have a view of the big picture of prices for houses and apartments in a city, I developed this scraper that goes through OLX´s data, cleans it up and provides a basic EDA of house prices.
 
