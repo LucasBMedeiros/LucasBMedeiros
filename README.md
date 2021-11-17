@@ -39,7 +39,7 @@ A UK-based online retail store has captured the sales data for different product
 :--:
 <b>Nine Hierarchical Clusters over UMAP Space for Customer Segmentation</b>
 
-### [Sales Prediction](https://github.com/LucasEzBM/rossmann-sales)
+### [Sales Prediction](https://github.com/LucasBMedeiros/rossmann_sales)
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
@@ -48,7 +48,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 <b>Sales Prediction over time with XGBoost</b>
 
 
-### [User´s First Booking](https://github.com/LucasEzBM/airbnb_users_first_booking) 
+### [User´s First Booking](https://github.com/LucasBMedeiros/airbnb_first_booking) 
 
 In this multilabel imbalanced classification problem, Airbnb needs to predict the which country a new user's first booking destination will be. There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. At each crisp cycle the model gets less biased towards the 'USA' outcome, and increases its balanced accuracy.
 
@@ -56,7 +56,7 @@ In this multilabel imbalanced classification problem, Airbnb needs to predict th
 :--:
 <b>Confusion Matrix performance of Random Forest on Balanced Dataset</b>
 
-### [Churn Prediciton](https://github.com/LucasEzBM/churn_prediction) 
+### [Churn Prediciton](https://github.com/LucasBMedeiros/churn_prediction) 
 
 In saturated markets, the cost to retain a customer is much less than prospecting for new customers. Machine Learning models are able to predict whether or not the customer will renew their service contract with the company in the next year. This information about the users is very important to optimize efforts in prioritizing customers who should continue with the contract in the company.
 In this context, I developed a Machine Learning algorithm to identify whether or not a customer will stop using the banking service. The performance of the model in identifying the customer who will enter in churn period is 90%, which represents an additional U$ 20 million in revenue.
