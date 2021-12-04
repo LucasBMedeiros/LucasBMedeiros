@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 # Lucas Ezequiel 
-<sub>*Junior Data Scientist*</sub>
 
 I´m a civil engineer switching to Data Science. I am focused on developing solutions to business problems using data, going from business context to deploying models and dashboards.
 
 Since 2020, I have developed solutions for business problems such as identifying customers in churn, prioritizing customers for cross-selling, reducing CAC values, predicting store sales, and validating insights on rent values from data scraped from the web.
+
+**Links:**
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-medeiros-14a8a51a8/)
+* [![Medium Badge](https://img.shields.io/badge/M-Medium-lightgrey)](https://medium.com/@lucas.medeiross)
+* [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLucasEz65097262)](https://twitter.com/LucasEz65097262)
 
 The description of each project is detailed below.
 
@@ -24,12 +28,8 @@ The description of each project is detailed below.
 
 **Machine Learning Deployment:** Flask, Heroku.  
 
-**Links:**
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-medeiros-14a8a51a8/)
-* [![Medium Badge](https://img.shields.io/badge/M-Medium-lightgrey)](https://medium.com/@lucas.medeiross)
-* [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLucasEz65097262)](https://twitter.com/LucasEz65097262)
 
-## Data Science Projects:
+## Portfolio:
 
 ## [Insiders Clustering](https://github.com/LucasBMedeiros/insiders_clustering)
 
@@ -40,7 +40,7 @@ By performing feature engineering, data preparation, and dimensionality reductio
 
 ![](img/insiders/clusters01.png)
 :--:
-<b>Eight Hierarchical Clusters over UMAP Space for Customer Segmentation</b>
+<b>UMAP space before and after Random Forest Embedding</b>
 
 ## [Sales Prediction](https://github.com/LucasBMedeiros/rossmann_sales)
 
