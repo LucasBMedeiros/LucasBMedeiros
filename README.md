@@ -27,7 +27,7 @@ The description of each project is detailed below.
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-medeiros-14a8a51a8/)
 * [![Medium Badge](https://img.shields.io/badge/M-Medium-lightgrey)](https://medium.com/@lucas.medeiross)
-* [![Twitter Badge](https://img.shields.io/twitter/url?style=social)](https://twitter.com/LucasEz65097262)
+* [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLucasEz65097262)](https://twitter.com/LucasEz65097262)
 
 ## Data Science Projects:
 
