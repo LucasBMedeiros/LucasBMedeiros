@@ -3,30 +3,31 @@
 # Lucas Ezequiel 
 <sub>*Junior Data Scientist*</sub>
 
-I´m a civil engineer switching to Data Science and I´ve been studying Machine Learning since 2019. I am focused in achieving mastery in the development of solutions to business problems, using Data Science tools and going from the stage of understanding the business context to deploying Machine Learning models and creating new business insights.
+I´m a civil engineer switching to Data Science. I am focused on developing solutions to business problems using data, going from business context to deploying models and dashboards.
 
-During this time, I have developed solutions for business problems such as identifying customers in churn, prioritizing customers for cross-selling, reducing CAC values, predicting a store sales and creating an EDA from data scraped from an advertisement website.
+Since 2020, I have developed solutions for business problems such as identifying customers in churn, prioritizing customers for cross-selling, reducing CAC values, predicting store sales, and validating insights on rent values from data scraped from the web.
 
-The details of each solution are described in the projects below.
+The description of each project is detailed below.
 
 
 ### **Analytical Tools:**
 
-**Data Collect and Storage:** web scraping, SQL, MySQL.
+**Data Collect and Storage:** web scraping, SQL, MySQL, DBeaver, Google BigQuery.
 
-**Data Processing and Analysis:** Python, Spark.
+**Data Processing and Analysis:** Python, PySpark.
 
 **Development:** Linux, Git. 
 
-**Data Vizualization:** Power BI.
+**Data Vizualization:** Power BI, snowflake.
 
-**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series. 
+**Machine Learning Modeling:** Classification, Regression, Clustering. 
 
 **Machine Learning Deployment:** Flask, Heroku.  
 
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-medeiros-14a8a51a8/)
 * [![Medium Badge](https://img.shields.io/badge/M-Medium-lightgrey)](https://medium.com/@lucas.medeiross)
+* [![Twitter Badge](https://img.shields.io/twitter/follow/LucasEz65097262?style=social)](https://twitter.com/LucasEz65097262)
 
 ## Data Science Projects:
 
