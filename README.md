@@ -38,7 +38,7 @@ A UK-based online retail store has captured the sales data for different product
 
 By performing feature engineering, data preparation, and dimensionality reduction, it is possible to evaluate a natural tendency of customers to cluster together. Moreover, I used Random Forest Regressor embedding as a way to represent a new feature space, before applying UMAP and t-SNE reduction on the data. The combination of a forest embedding and UMAP gave me the best results in clustering customers, giving a silhouette score of 0,67 for 8 cluster with the Hierarquical Clustering algorithm.
 
-![](img/insiders/clusters.png)
+![](img/insiders/clusters01.png)
 :--:
 <b>Eight Hierarchical Clusters over UMAP Space for Customer Segmentation</b>
 
