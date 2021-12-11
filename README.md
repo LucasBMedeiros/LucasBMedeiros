@@ -22,7 +22,7 @@ The description of each project is detailed below.
 
 **Development:** Linux, Git. 
 
-**Data Vizualization:** Power BI, snowflake.
+**Data Vizualization:** Power BI.
 
 **Machine Learning Modeling:** Classification, Regression, Clustering. 
 
