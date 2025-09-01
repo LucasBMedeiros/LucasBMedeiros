@@ -16,15 +16,15 @@ The description of each project is detailed below.
 
 ### **Analytical Tools:**
 
-**Data Collect and Storage:** web scraping, SQL, MySQL, DBeaver, Google BigQuery.
+**Data Collect and Storage:** Redshift, Postgres, MySQL.
 
-**Data Processing and Analysis:** Python, PySpark.
+**Data Processing and Analysis:** Python, Spark, Snowflake.
 
 **Development:** Linux, Git. 
 
-**Data Vizualization:** Power BI.
+**Data Vizualization:** Power BI, DOMO.
 
-**Machine Learning Modeling:** Classification, Regression, Clustering. 
+**Machine Learning Modeling:** Classification, Regression, Clustering, . 
 
 **Machine Learning Deployment:** Flask, Heroku.  
 
